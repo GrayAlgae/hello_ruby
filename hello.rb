@@ -1,1 +1,1 @@
-putc "hello"
+puts "hello"
